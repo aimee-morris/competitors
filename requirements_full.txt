@@ -1,0 +1,23 @@
+# Producer AI - Full Requirements
+# Core framework & data
+SQLAlchemy==1.4.52
+pandas==2.2.2
+requests==2.32.3
+beautifulsoup4==4.12.3
+pytrends==4.9.2
+streamlit==1.36.0
+openai==1.35.10
+toml==0.10.2
+
+# Utilities
+tenacity==8.2.3
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+
+# Optional advanced features (commented until needed)
+# sentence-transformers==2.7.0
+# scikit-learn==1.5.1
+# weasyprint==62.3
+# structlog==24.1.0
+
+# Rebuild trigger 2025-07-19
